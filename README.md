@@ -1,6 +1,6 @@
 # Telegram Send Data
 
-[Short description of your project]
+Sending message to telegram bot
 
 ## Table of Contents
 
